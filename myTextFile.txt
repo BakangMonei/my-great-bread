@@ -1,0 +1,40 @@
+-----------------------------------------------------
+            Recipe App Prototype Requirements
+-----------------------------------------------------
+
+1. Splash Screen:
+    - Upon opening the app, users should be greeted with a splash screen displaying the app logo or a relevant visual.
+
+2. Login, Register, and Forgot Password Functionality:
+    - Users should be able to log in to their accounts using their credentials.
+    - New users should have the option to register for an account.
+    - In case users forget their passwords, there should be a "Forgot Password" feature allowing them to reset it.
+
+3. Recipes List:
+    - The app should feature a list of recipes accessible to users.
+    - Each recipe should be displayed individually with details such as ingredients, instructions, and possibly images.
+
+4. Adding and Viewing Individual Recipes:
+    - Users should be able to view the details of each recipe by selecting it from the list.
+    - Additionally, users should have the option to add recipes to their favorites for quick access.
+
+5. Favourites:
+    - A dedicated section should allow users to view and manage their favorite recipes.
+    - Users should have the ability to remove recipes from their favorites list.
+
+6. Adding New Recipe:
+    - The app should provide functionality for users to add their own recipes.
+    - This feature should include fields for entering recipe details such as name, ingredients, instructions, etc.
+
+7. Weight Conversion Scales:
+    - Users should be able to convert weights between different units, such as grams to pounds/ounces and vice versa.
+  
+8. Preferences:
+    - Dark/Light Mode:
+        - Users should have the option to switch between dark and light mode according to their preference.
+    - Typeface:
+        - Users should be able to choose between serif and sans-serif font styles throughout the app.
+    - Font Size:
+        - Users should be provided with at least three default font size options to adjust text readability according to their preference.
+
+-----------------------------------------------------
